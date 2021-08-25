@@ -1,0 +1,7 @@
+What does '#include <stdio.h>' mean?
+    It is what a library is in python
+    It is referred to as header file
+    It contains the necessary definition needed for a compiler
+        to make sense of the printf and scaf functions 
+
+Continue from: 1.2
