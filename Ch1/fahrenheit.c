@@ -21,10 +21,10 @@ Think about each iteration as a mini-dept
 */
 
 
-main()
+int main()
 {
 
-    int fahr, celsius;
+    float fahr, celsius;
     int lower_limit, upper_limit, step_value;
 
     /* Temperature scales*/
@@ -36,10 +36,10 @@ main()
 
     while (fahr <= upper_limit){
 
-        celsius = ( 5 * (fahr-32) / 9);
-        printf("%d\t%d\n", fahr, celsius);
+        celsius = ((5.0/9.0) * (fahr-32) );
+        printf("%3.0f %8.1f\n", fahr, celsius);
 
-        fahr = fahr + step;
+        fahr = fahr + step_value;
 
 
     }

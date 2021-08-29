@@ -4,4 +4,8 @@ What does '#include <stdio.h>' mean?
     It contains the necessary definition needed for a compiler
         to make sense of the printf and scaf functions 
 
-Continue from: 1.2
+In C integer division truncates
+    It means when performing division with integer
+        numbers the c compiler discards the fractional part
+
+Continue from: Exercise1-3
