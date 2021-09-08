@@ -3,6 +3,39 @@
 int main(void) {
 
   /*
+
+
+  -----------------------------------------------
+    
+  https://www.reddit.com/r/C_Programming/comments/5e2l0i/how_does_putchar_work/
+
+  https://www.educative.io/edpresso/what-is-a-buffer-in-c (Continue from here)
+
+  What buffering an input mean
+  Buffer 
+  Input buffer can also be known as input area or 
+  input block.
+
+  It is a location that holds all incoming information
+  before it is sent to the CPU for processing.
+
+  It is a temporary storage used to store input and output commands.
+  Input commands -- User 
+  Output commands -- Computer 
+
+  A buffer needs to be cleared before the next input is
+  taken in 
+
+
+
+
+  Add your answer to this
+  https://stackoverflow.com/questions/17745745/exercise-1-6-kr-how-to-verfiy-that-getchar-eof-is-0-or-1/17745895
+
+  Why the while loop implementation prints
+  a set of 1s, then goes to a new line
+
+  What buffering an input mean
   
 
 

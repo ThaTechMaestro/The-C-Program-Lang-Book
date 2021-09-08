@@ -8,4 +8,4 @@ In C integer division truncates
     It means when performing division with integer
         numbers the c compiler discards the fractional part
 
-Continue from: Exercise 1-6
+Continue from: Exercise 1-6 (Read the Educative.io link again)
