@@ -1,1 +1,1 @@
-# Walkthrough of The C Programming Language Book
+# A Walkthrough of the book "The C Programming Language"

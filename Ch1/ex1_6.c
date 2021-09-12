@@ -9,7 +9,7 @@ int main(void) {
     
   https://www.reddit.com/r/C_Programming/comments/5e2l0i/how_does_putchar_work/
 
-  https://www.educative.io/edpresso/what-is-a-buffer-in-c (Continue from here)
+  https://www.educative.io/edpresso/what-is-a-buffer-in-c (Go over this again, test run the code to solidify your understanding)
 
   What buffering an input mean
   Buffer 
@@ -60,7 +60,10 @@ int main(void) {
 
   
 
+ /*
+ Check out the implementation below again
 
+ */
 
 
   int c;
