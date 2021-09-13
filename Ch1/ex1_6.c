@@ -10,6 +10,8 @@ int main(void) {
   https://www.reddit.com/r/C_Programming/comments/5e2l0i/how_does_putchar_work/
 
   https://www.educative.io/edpresso/what-is-a-buffer-in-c (Go over this again, test run the code to solidify your understanding)
+  Continue from here for the test code in educative.io:
+    https://www.youtube.com/watch?v=2AGTrHwx9Ng
 
   What buffering an input mean
   Buffer 

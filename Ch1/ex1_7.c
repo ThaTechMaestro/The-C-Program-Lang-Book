@@ -5,7 +5,8 @@ int main(void){
 
     int c = EOF;
 
-    printf("%d", c);
+    printf("\n%d", c);
+    printf("\n");
 
 
 
