@@ -9,3 +9,5 @@ In C integer division truncates
         numbers the c compiler discards the fractional part
 
 Continue from: Exercise 1-6 (Read the Educative.io link again)
+                https://replit.com/@thatechMaestro/EnergeticSteelblueTelevision#main.c
+                Use of fflush
