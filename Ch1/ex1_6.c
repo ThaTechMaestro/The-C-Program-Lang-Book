@@ -13,6 +13,12 @@ int main(void) {
   Continue from here for the test code in educative.io:
     https://www.youtube.com/watch?v=2AGTrHwx9Ng
 
+  
+  Buffer is a concept implemented at the Software level.
+    It simply means temporarily holding data for easy retrieval(read) or processing.
+  RAM is an actual storage technology
+    Datas which are small in size can be stored as Buffers on a RAM
+
   What buffering an input mean
   Buffer 
   Input buffer can also be known as input area or 
