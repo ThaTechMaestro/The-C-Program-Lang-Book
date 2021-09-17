@@ -9,7 +9,7 @@ int main(void){
   
   /*
   
-  https://www.reddit.com/r/C_Programming/comments/5e2l0i/how_does_putchar_work/
+  https://www.reddit.com/r/C_Programming/comments/5e2l0i/how_does_putchar_work/ (Completed)
 
   https://www.educative.io/edpresso/what-is-a-buffer-in-c (Completed)
 

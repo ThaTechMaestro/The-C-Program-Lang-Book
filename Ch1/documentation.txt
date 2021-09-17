@@ -10,4 +10,4 @@ In C integer division truncates
 
 Continue from: Exercise 1-6 (Read the Educative.io link again)
                 https://replit.com/@thatechMaestro/EnergeticSteelblueTelevision#main.c
-                Check the reddit link
+                Continue from the stack overflow link
